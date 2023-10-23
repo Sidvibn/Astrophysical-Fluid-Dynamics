@@ -1,1 +1,1 @@
-# Astrophysical-Fluid-Dynamics
+# Atmosphere Dynamics of Hot Jupiters
